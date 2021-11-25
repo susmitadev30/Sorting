@@ -1,0 +1,22 @@
+body{
+    background-color: #333245;
+}
+
+h2{
+    color: white;
+}
+#container{
+    border: 2px solid wheat;
+    background-color: thistle;
+    font-size: 25px;
+    width: 500px;
+}
+#display_name{
+    display: flex;
+    justify-content: center;
+    border: 3px solid yellowgreen;
+    padding: 3px;
+    background-color: yellowgreen;
+    height: auto;
+    width: fit-content;   
+}
